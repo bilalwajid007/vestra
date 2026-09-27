@@ -84,4 +84,8 @@ Health endpoint:
 GET /api/health
 ```
 
-Available next action: :contentReference[oaicite:0]{index=0}
+## Developer
+
+*Bilal Wajid*
+
+GitHub: [bilalwajid007](https://github.com/bilalwajid007)
